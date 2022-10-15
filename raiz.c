@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int square(int x)
 {
     printf("O quadrado e %d",(x*x));
