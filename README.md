@@ -1,1 +1,1 @@
-# Exercícios realizados para estudo da linguagem C.
+# Códigos realizados no decorrer do estudo da linguagem C
